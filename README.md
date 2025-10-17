@@ -1,4 +1,5 @@
-<img width="888" height="766" alt="Genisis-Mini_Banner_001" src="https://github.com/user-attachments/assets/bb2fc4a0-7bb9-4ace-851b-bd03537dbb65" />
+<img width="858" height="409" alt="Genisis-Mini_Banner_001" src="https://github.com/user-attachments/assets/ee2ebf20-4750-4296-8cb5-0f84f1ba4310" />
+
 
 # Genisis-Mini
 
