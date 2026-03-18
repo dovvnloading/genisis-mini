@@ -1,6 +1,3 @@
-<img width="858" height="409" alt="Genisis-Mini_Banner_001" src="https://github.com/user-attachments/assets/ee2ebf20-4750-4296-8cb5-0f84f1ba4310" />
-
-
 # Genisis-Mini
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
