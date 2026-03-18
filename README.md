@@ -80,6 +80,13 @@ Generated files are saved in the working directory with incrementing names such 
 DataSource/
   DataSource/
     DataSource.py
+    app/
+      __init__.py
+      config.py
+      services.py
+      ui.py
+      utils.py
+      workers.py
 README.md
 LICENSE
 ```
