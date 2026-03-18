@@ -7,6 +7,11 @@
 
 Genisis-Mini is a local desktop application for generating small, structured synthetic datasets from a single topic. It uses Ollama-hosted language models to expand a subject into sub-topics, filter them for relevance and diversity, and export validated input/output pairs as JSON or JSONL.
 
+
+<img width="802" height="732" alt="Screenshot 2025-10-04 115020" src="https://github.com/user-attachments/assets/e4f340e3-c011-4d50-980e-0cac137449f2" />
+<img width="802" height="732" alt="Screenshot 2025-10-04 115420" src="https://github.com/user-attachments/assets/442b7bb6-1e2a-4468-8d8d-a3829f7467bb" />
+
+
 ## What It Does
 
 - Generates topic-focused synthetic dataset entries from a user-defined subject.
