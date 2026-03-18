@@ -87,11 +87,11 @@ Before running Genisis-Mini, ensure your system meets the following requirements
 
     ```bash
     ollama pull nomic-embed-text
-    ollama pull granite4:tiny-h
-    ollama pull granite4:micro-h
+    ollama pull qwen3:4b
+    ollama pull qwen3:1.7b
     ```
     
-    > **Note:** The `granite` models are used by default for generation and validation but can be substituted with any other compatible model available in your Ollama instance via the application's UI. `nomic-embed-text` is required for the similarity calculations.
+    > **Note:** The application now defaults to the current `qwen3` family in Ollama: `qwen3:4b` for generation and `qwen3:1.7b` for validation. The UI also merges these defaults with any models already installed in your local Ollama instance. `nomic-embed-text` is still required for similarity calculations.
 
 ### Installation & Execution
 
